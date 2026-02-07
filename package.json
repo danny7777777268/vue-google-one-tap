@@ -1,0 +1,11 @@
+{
+  "name": "vue-google-one-tap",
+  "version": "1.0.0",
+  "description": "Minimal Google One Tap component for Vue 3",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "vue": ">=3.0.0"
+  },
+  "files": ["index.js", "README.md"]
+}
